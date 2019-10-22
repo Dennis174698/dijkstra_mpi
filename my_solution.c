@@ -5,6 +5,8 @@
 #include <string.h>
 
 /**
+ *Guangming Chen
+ *21664707
  * Parallel algorithms with the Message-Passing Interface (MPI) to solve the all-pairs-shortest
  * path problem for a number of large graphs using Dijkstra’s algorithms.
  *
