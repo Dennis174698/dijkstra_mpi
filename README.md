@@ -22,4 +22,4 @@ corresponds to the following adjacency matrix:<br>
                       which would be specified by the file example.in<br>
                       4 0 15 1 1 0 0 3 0 1 3 0 0 0 1 1 0<br>
 ## print output
-`print_bin_result`<br>
+`./print_bin_result test_data/xxx.out`<br>
